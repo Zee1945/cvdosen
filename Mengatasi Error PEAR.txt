@@ -1,0 +1,21 @@
+Requirement :
+install git
+install composer
+
+Cara Menjalankan CodeIgniter 4 :
+
+-Nyalakan Apache dan PhpMyadmin di xammp
+-Arahkan pada directory C:/xammp/htdocs/cvdosen
+-Klik kanan pada directory C:/xammp/htdocs/cvdosen lalu pilih git bash here
+-pada git bash ketik "php spark serve" (biarkan cli git di latar belakang)
+-Jalankan server lokal http://localhost:8080 di browser
+
+
+
+
+
+
+Jika ada Error dengan salah satu kata kunci Rewrite,PEAR
+Di git bash ketik ini.
+.
+php -S localhost:8000 -t public
